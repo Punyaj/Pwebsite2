@@ -1298,11 +1298,18 @@ footer span a:hover{
         height: 350px;
         width: 350px;
     }
+    section .title{
+        font-size: 70px;
+         
+    }
 }
 
 @media (max-width: 991px) {
     .max-width{
         padding: 0 50px;
+    }
+    section .title{
+        font-size: 60px;    
     }
 }
 @media (max-width: 947px){
@@ -1371,7 +1378,9 @@ footer span a:hover{
         flex: 100%;
     }
 
-    
+    section .title{
+        font-size: 55px;    
+    }
     .services .serv-content .card{
         width: calc(50% - 10px);
         margin-bottom: 20px;
@@ -1401,6 +1410,9 @@ footer span a:hover{
     }
     .services .serv-content .card{
         width: 100%;
+    }
+    section .title{
+        font-size: 55px;    
     }
 }
 
@@ -1438,5 +1450,8 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    section .title{
+        font-size: 40px;    
     }
 }
