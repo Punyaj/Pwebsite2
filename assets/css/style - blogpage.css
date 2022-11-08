@@ -383,7 +383,9 @@ section .title:hover{
     }
 /* Home about section */
 
-
+.fas {
+    color: white;
+}
 /* about section styling */
 .heading_background {
     color: transparent;

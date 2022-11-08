@@ -198,4 +198,6 @@ html {
   .btn:hover {
     text-decoration-line: none;
   }
-  
+  .fas {
+    color: white;
+}
