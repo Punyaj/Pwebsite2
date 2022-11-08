@@ -347,6 +347,9 @@ letter-spacing: 1px;
 }
 
 /* menu btn styling */
+.fas {
+    color: white;
+}
 .menu-btn{
     font-size: 23px;
     /* cursor: pointer; */
