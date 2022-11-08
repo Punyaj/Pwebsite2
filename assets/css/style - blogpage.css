@@ -396,6 +396,10 @@ section .title:hover{
     line-height: 0.01;
     z-index: 1;
 }
+
+.text{
+    font-size: 50px;
+}
 /* .heading_background1 {
     color: transparent;
     -webkit-text-stroke: 1px #c49b6649;
@@ -1168,6 +1172,12 @@ footer span a:hover{
       border: 0;
       border-top: 1px solid #ccc;
     }
+    .heading_background {
+        font-size: 40px;
+    }
+    .text{
+        font-size: 25px;
+    }
   }
 
 
@@ -1211,6 +1221,12 @@ footer span a:hover{
     }
 }
 @media (max-width: 947px){
+    .heading_background {
+        font-size: 60px;
+    }
+    .text{
+        font-size: 45px;
+    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -1289,6 +1305,12 @@ footer span a:hover{
 }
 
 @media (max-width: 690px) {
+    .heading_background {
+        font-size: 60px;
+    }
+    .text{
+        font-size: 45px;
+    }
     .max-width{
         padding: 0 23px;
     }
@@ -1310,6 +1332,12 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+    .heading_background {
+        font-size: 40px;
+    }
+    .text{
+        font-size: 25px;
+    }
     section{
         padding: 50px 0;
     }
